@@ -4,6 +4,7 @@ I am an economist willing to leverage quantitative methods and data visualizatio
 - time series;
 - network science; 
 - causal & predictive econometrics.
+
 Findings, figures, and views on this page are mine and do not engage any other party.
 
 ### Languages and tools
