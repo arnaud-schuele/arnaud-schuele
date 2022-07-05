@@ -6,7 +6,7 @@ I am an economist willing to leverage quantitative methods and data visualizatio
 - causal & predictive econometrics;
 - applied statistics.
 
-Findings, figures, and views on this page are mine and do not engage any other party.
+This GitHub page compiles some projects undertaken during my studies or beyond. Findings, figures, and views on this page are mine and do not engage any other party.
 
 ### Languages and tools
 
