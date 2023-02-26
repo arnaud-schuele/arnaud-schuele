@@ -16,7 +16,7 @@ This GitHub page compiles some projects undertaken during my studies or beyond. 
 <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="padding-right:10px;" />
 <img align="left" alt="LaTeX" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Matlab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Stata" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/stata-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Stata" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stata/stata-original.svg" style="padding-right:10px;" />
 <br/>
   
 
