@@ -1,6 +1,6 @@
 ### Welcome to my GitHub page 👋
 
-I am an economist willing to leverage quantitative methods and data visualization techniques in research on poverty alleviation. In particular, I am interested in:
+I am a PhD Student in Development Economics willing to leverage quantitative methods and data visualization techniques in research on poverty alleviation. In particular, I am interested in:
 - time series;
 - network science; 
 - causal & predictive econometrics;
