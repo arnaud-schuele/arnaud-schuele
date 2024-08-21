@@ -1,12 +1,8 @@
 ### Welcome to my GitHub page 👋
 
-I am a PhD candidate in Development Economics aiming to leverage quantitative methods and data visualization techniques in research on impact investing and poverty alleviation. In particular, I am interested in:
-- time series;
-- network science; 
-- causal & predictive econometrics;
-- applied statistics.
+I am a PhD candidate in Development Economics. I aim to leverage quantitative methods and data visualization techniques in research on impact investing and poverty alleviation. 
 
-This GitHub page compiles some projects undertaken during my studies or beyond. This page's findings, figures, and views are mine and do not engage any other party.
+This GitHub page compiles some projects undertaken during my studies or beyond. The findings, figures, and views on this page are mine and do not represent those of any other party.
 
 ### Languages and tools
 
