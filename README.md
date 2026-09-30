@@ -1,6 +1,6 @@
 ### Welcome to my GitHub page 👋
 
-I am a PhD candidate in Development Economics, studying impact investing in low- and middle-income countries. My research aims to provide practical recommendations for investors to maximize their financial additionality.
+I am a PhD candidate in Development Economics studying impact investing in low- and middle-income countries. My research aims to provide practical recommendations for investors to maximize their financial additionality.
 
 This GitHub page compiles some projects undertaken during my studies or beyond. The findings, figures, and views on this page are mine and do not represent those of any other party.
 
